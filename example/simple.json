@@ -1,0 +1,25 @@
+{
+  "CreationDate": "2017-8-31",
+  "Commands": [
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"bs-example-navbar-collapse-1\"]/ul/li[3]/div/span",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"bs-example-navbar-collapse-1\"]/ul/li[3]/ul/li[1]/a/span",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "/html/body/article/div[2]/ul/li[1]/a/span",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "link=One day with the web hates me",
+      "Value": ""
+    }
+  ]
+}
